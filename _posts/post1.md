@@ -2,6 +2,6 @@
 layout: post
 title: "post 1"
 date: 2018-11-10 10:10:10
-category: Business Bigdata Analysys
+categories: Data_science
 comments:true
 ---
