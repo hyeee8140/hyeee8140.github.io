@@ -10,10 +10,10 @@ public: true
 강의 일자 별 경영빅데이터 강의 내용 정리 
 * post1_ 빅데이터 개념
 * post2- Hello Python
-* post3- 
-* post4_
-* post5_
+* post3- Variables and Operators
+* post4_Version Control
+* post5_Data Analysis Process
 
-* post6_
-* post7_
+* post6_Controll flow & Funtion
+* post7_File IO
   
