@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "post 1"
-date: 2018-11-10
-excerpt:첫 포스트
-tag:
--blog
+date: 2018-11-10 10:10:10
+category: Business Bigdata Analysys
 comments:true
 ---
